@@ -1,6 +1,6 @@
-#Esttudos da lingueagem C e Estrutura de dados
+# Estudos da lingueagem C e Estrutura de dados
 
-###list, pilhas e fila
+### listas, pilhas e fila
 
 Lista Simplismente encadeada  
 Lista Duplamente encadeada  
